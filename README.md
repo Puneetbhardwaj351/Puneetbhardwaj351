@@ -12,7 +12,7 @@ I am a **Full Stack Developer** with over **8 years of experience** in managing 
 - **Languages**: JavaScript, TypeScript, Solidity,
 - **Frameworks**: React, Angular, Node.js, Express.js
 - **Databases**: MongoDB, MySQL, PostgreSQL
-- **Blockchain**: Ethereum, Smart Contracts, DApps
+- **Blockchain**: Ethereum, Solidity, Smart Contracts, DApps
 - **Tools**: Git, Docker, CI/CD, Agile Methodologies
 
 ## Projects
